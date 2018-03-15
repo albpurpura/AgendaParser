@@ -1,0 +1,33 @@
+Presidente
+Segretario
+Ministro
+Sottosegretario
+Capo
+Comandante
+Chairman
+vice
+Vice
+Arcivescovo
+Vescovo
+Direttore
+Vice
+maestro
+Maestro
+Ambasciatore
+Generale
+Procuratore
+ambasciatore
+Premio Nobel
+premio nobel
+ex
+Ex
+Cancelliere
+capogruppo
+Capogruppo
+Ammiraglio
+Consulente
+Amministratore
+primo
+Primo
+Alto
+Commissario
